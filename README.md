@@ -2,10 +2,10 @@
 
 <br/>
 ## Requerimientos
-	*[Python versión 3.7+] (https://www.python.org/downloads/)
+	* [Python versión 3.7+](https://www.python.org/downloads/)
 
 	* Librerías
-	   * [pem] (https://pypi.org/project/pem/)
+	   * [pem](https://pypi.org/project/pem/)
 	    	> ``` pip install pem ```
 
 		* [Zeep: Python SOAP Client](https://docs.python-zeep.org/en/master/)
