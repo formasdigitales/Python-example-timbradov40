@@ -1,24 +1,26 @@
 # Python Ejemplo de Timbrado CFDI 4.0
 
 <br/>
+
 ## Requerimientos
-	* [Python versión 3.7+](https://www.python.org/downloads/)
+* [Python versión 3.7+](https://www.python.org/downloads/)
 
-	* Librerías
-	   * [pem](https://pypi.org/project/pem/)
-	    	> ``` pip install pem ```
+* Librerías
+   * [pem](https://pypi.org/project/pem/)
+     > ``` pip install pem ```
 
-		* [Zeep: Python SOAP Client](https://docs.python-zeep.org/en/master/)
-			> ``` pip install zeep ```
+    * [Zeep: Python SOAP Client](https://docs.python-zeep.org/en/master/)
+      > ``` pip install zeep ```
 
-		* [Cryptography](https://cryptography.io/en/latest/)
-			> ``` pip install cryptography ```
+    * [Cryptography](https://cryptography.io/en/latest/)
+      > ``` pip install cryptography ```
 
-		* [pyOpenssl](https://pypi.org/project/pyOpenSSL/)
-			> ``` pip install pyOpenSSL ```
+    * [pyOpenssl](https://pypi.org/project/pyOpenSSL/)
+      > ``` pip install pyOpenSSL ```
 
-		* [pycryptodome](https://pypi.org/project/pycryptodome/)
-			> ``` pip install pycryptodome```
+    * [pycryptodome](https://pypi.org/project/pycryptodome/)
+      > ``` pip install pycryptodome```
+ 
 <br/>
 
 La clase **Timbradov40** contiene todos los métodos para poder procesar el xml deseado a timbrar.
